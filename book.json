@@ -1,0 +1,62 @@
+{
+    "output": null,
+    "generator": "site",
+
+    "title": "扫码e签帮助文档",
+    "author": "Frank",
+    "description": "扫码e签帮助文档",
+    "isbn": "",
+    "language":"zh-hans",
+
+    "extension": null,
+
+    "plugins": [],
+
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "white",
+            "family": "serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji",
+            "size": 4
+        }
+    },
+
+    "variables": {},
+
+    "links": {
+   
+        "sidebar": {
+            "官网": "https://qiandao.zijinshi.org"
+        },
+
+
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+
+
+    "pdf": {
+      
+        "pageNumbers": true,
+
+        "fontSize": 15,
+
+        "paperSize": "a4",
+
+        "margin": {
+            "right": 28,
+            "left": 28,
+            "top": 26,
+            "bottom": 26
+        },
+
+  
+        "headerTemplate": null,
+
+        "footerTemplate": null
+    }
+}
