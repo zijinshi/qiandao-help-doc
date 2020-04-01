@@ -10,4 +10,5 @@
   * [扫码签到](faqs/sign.md)
 * [其他](others/README.md)
   * [反馈](others/feedback.md)
+  * [版本更新](others/version.md)
 
