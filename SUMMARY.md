@@ -2,9 +2,10 @@
 
 * [介绍](README.md)
 * [功能](functions/README.md)
+  * [角色](functions/jiao-se.md)
   * [发起签到](functions/create-sign.md)
   * [扫码签到](functions/sign.md)
-  * [费用](functions/fees.md)
+  * [支付](functions/fees.md)
 * [常见问题](faqs/README.md)
   * [发起签到](faqs/create-sign.md)
   * [扫码签到](faqs/sign.md)
