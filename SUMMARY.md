@@ -5,7 +5,7 @@
   * [角色](functions/jiao-se.md)
   * [发起签到](functions/create-sign.md)
   * [扫码签到](functions/sign.md)
-  * [支付](functions/fees.md)
+  * [用户类型](functions/fees.md)
 * [常见问题](faqs/README.md)
   * [发起签到](faqs/create-sign.md)
   * [扫码签到](faqs/sign.md)
