@@ -21,6 +21,6 @@
 如需从免费用户升级到专业用户，可按照如下步骤付费：
 
 1. 点击 **我的** -&gt; **账户** ，进入账户页面，点击 **续期** 按钮。   
-![&#x626B;&#x7801;e&#x7B7E;](.gitbook/assets/account.png)
+![&#x626B;&#x7801;e&#x7B7E;](../.gitbook/assets/account.png)
 2. 在
 
