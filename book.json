@@ -2,9 +2,9 @@
     "output": null,
     "generator": "site",
 
-    "title": "扫码e签帮助文档",
+    "title": "扫码e签",
     "author": "Frank",
-    "description": "扫码e签帮助文档",
+    "description": "扫码e签",
     "isbn": "",
     "language":"zh-hans",
 
@@ -30,11 +30,7 @@
 
 
         "sharing": {
-            "google": null,
-            "facebook": null,
-            "twitter": null,
-            "weibo": null,
-            "all": null
+            "weibo": null
         }
     },
 
